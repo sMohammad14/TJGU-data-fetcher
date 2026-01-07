@@ -28,3 +28,20 @@ https://smohammad14.github.io/TJGU-data-fetcher/TJGU%20Data%20Fetcher%20-%20v1.0
 
 
 ✅همچنین با کلیک روی دیتا هر سلول، اون دیتا کپی خواهد شد!
+
+
+📸اسکرین شات های برنامه
+---
+![TJGU Screenshot](https://github.com/sMohammad14/TJGU-data-fetcher/blob/main/screenshots/TJGU-data-fetcher%20(1).png?raw=true)
+
+![TJGU Screenshot](https://github.com/sMohammad14/TJGU-data-fetcher/blob/main/screenshots/TJGU-data-fetcher%20(2).png?raw=true)
+
+![TJGU Screenshot](https://github.com/sMohammad14/TJGU-data-fetcher/blob/main/screenshots/TJGU-data-fetcher%20(3).png?raw=true)
+
+نمونه فایل خروجی Json
+
+
+![TJGU Screenshot](https://github.com/sMohammad14/TJGU-data-fetcher/blob/main/screenshots/TJGU-data-fetcher%20(4).png?raw=true)
+
+
+
