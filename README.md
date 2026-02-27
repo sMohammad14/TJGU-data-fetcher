@@ -27,7 +27,7 @@
 ---
 همونطور که مشخص هست، این ابزار به اینترنت برای دریافت اطلاعات نیاز داره، پس میتونید هم از لینک زیر استفاده کنید:
 
-https://smohammad14.github.io/TJGU-data-fetcher/TJGU%20Data%20Fetcher%20-%20v3.0.0.html
+https://smohammad14.github.io/TJGU-data-fetcher/TJGU%20Data%20Fetcher%20-%20v3.1.html
 
  و یا فایل .HTML رو دانلود و روی سیستم خودتون ازش استفاده کنید.
 
